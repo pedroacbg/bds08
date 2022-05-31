@@ -1,0 +1,93 @@
+.profile-search-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px 30px 0 30px;
+}
+
+.profile-search-container h1 {
+  font-weight: bold;
+  text-align: center;
+  margin: 50px 0 15px 0;
+}
+
+.search-container {
+  width: 1251px;
+  height: 270px;
+  left: 0px;
+  top: 0px;
+  background-color: #e6f7ff;
+  border-radius: 16px;
+}
+
+.text-title {
+  width: 502px;
+  height: 46px;
+  font-size: 38px;
+  font-weight: 500;
+  color: #262626;
+}
+
+.search-input {
+  width: 298px;
+  margin-bottom: 15px;
+  margin-left: 8px;
+  box-sizing: border-box;
+  align-items: center;
+  padding: 8px 16px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+}
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: -2px;
+  margin-top: 0;
+}
+
+.card-github {
+  margin-top: 40px;
+  background: #f5f5f5;
+  border-radius: 8px;
+  display: flex;
+  justify-content: flex-start;
+  width: 1251px;
+  height: 334px;
+}
+
+.card-img {
+  display: flex;
+  align-items: center;
+  padding: 30px 20px 30px 10px;
+  width: 310px;
+}
+
+.card-img img {
+  width: 247px;
+  height: 247px;
+}
+
+.card-info {
+  border: 1px solid #d9d9d9;
+  background-color: #fff;
+  border-radius: 6px;
+  padding: 10px;
+  width: 906px;
+  margin: 40px 0;
+  height: 250px;
+}
+
+.card-info h6 {
+  padding: 5px 0 20px 0;
+}
+
+.text-primary {
+  color: #1890ff;
+  font-size: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+}
